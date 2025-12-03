@@ -452,7 +452,7 @@
     </div>
 
     <div class="custom-image-section">
-      <img src="https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=400&q=80"
+      <img src="https://images.png.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=400&q=80"
         alt="How to Play Illustration">
     </div>
 
